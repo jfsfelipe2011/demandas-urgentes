@@ -1,0 +1,11 @@
+/home/jose/Projetos/demandas-urgentes/bin/Debug/netcoreapp2.2/demandas-urgentes.deps.json
+/home/jose/Projetos/demandas-urgentes/bin/Debug/netcoreapp2.2/demandas-urgentes.runtimeconfig.json
+/home/jose/Projetos/demandas-urgentes/bin/Debug/netcoreapp2.2/demandas-urgentes.runtimeconfig.dev.json
+/home/jose/Projetos/demandas-urgentes/bin/Debug/netcoreapp2.2/demandas-urgentes.dll
+/home/jose/Projetos/demandas-urgentes/bin/Debug/netcoreapp2.2/demandas-urgentes.pdb
+/home/jose/Projetos/demandas-urgentes/obj/Debug/netcoreapp2.2/demandas-urgentes.csprojAssemblyReference.cache
+/home/jose/Projetos/demandas-urgentes/obj/Debug/netcoreapp2.2/demandas-urgentes.csproj.CoreCompileInputs.cache
+/home/jose/Projetos/demandas-urgentes/obj/Debug/netcoreapp2.2/demandas-urgentes.AssemblyInfoInputs.cache
+/home/jose/Projetos/demandas-urgentes/obj/Debug/netcoreapp2.2/demandas-urgentes.AssemblyInfo.cs
+/home/jose/Projetos/demandas-urgentes/obj/Debug/netcoreapp2.2/demandas-urgentes.dll
+/home/jose/Projetos/demandas-urgentes/obj/Debug/netcoreapp2.2/demandas-urgentes.pdb
